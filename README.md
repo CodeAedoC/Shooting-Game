@@ -14,5 +14,5 @@ Steps to run Program:
 ![](Main-Game.png)
 
 ![](End-Game.png)
-
+<br>
 ![](Captions-Game.png)
